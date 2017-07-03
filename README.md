@@ -10,6 +10,7 @@ PHP Mysql with Molpay Api
 <li>Use a session for add to cart</li>
 <li>Javascript to remove item from list</li>
 <li>List item from mysql (pull data from phpmyadmin) </li>
+<li> Implement molpay api with javascript
 
 # screenshot
 
